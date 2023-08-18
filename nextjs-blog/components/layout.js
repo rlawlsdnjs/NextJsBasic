@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Jin Won Kim";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "Next.js 기본예제 실습";
 
 export default function Layout({ children, home }) {
     return (
